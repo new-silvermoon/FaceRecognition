@@ -119,9 +119,9 @@ def recognise_face():
             cv2.destroyAllWindows()
 
 
-#generate_face_data()
+generate_face_data()
 
-recognise_face()
+#recognise_face()
 
 
 
